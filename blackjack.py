@@ -43,7 +43,7 @@ def register_players(start_money, max_players):
 
 def create_deck():
     TYPES = ['♠', '♥', '♣', '♦']
-    VALUES = ['A', 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K']
+    VALUES = ['A', 2, 3, 4, 5, 6, 7, 8, 9, 10, 'J', 'Q', 'K']
 
     deck = [type+str(value) for type in TYPES for value in VALUES]
 
