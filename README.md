@@ -1,4 +1,4 @@
-# **Engeto Python Academy**
+# **ENGETO Python Academy**
 ## **Project 4 – Blackjack**
 A simple terminal based blackjack game for up to 7 players.
 
